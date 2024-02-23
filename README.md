@@ -24,7 +24,7 @@ The `deepfake_detection.ipynb` Jupyter Notebook contains the code for deepfake d
 
 ```bash
 git clone https://github.com/fakubwoy/Deepfake_detection.git
-cd deepfake-detection
+cd Deepfake_detection
 ```
 
 2. Install the required dependencies:
