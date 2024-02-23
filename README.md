@@ -33,7 +33,7 @@ cd deepfake-detection
 pip install -r requirements.txt
 ```
 
-3. Open and run the `deepfake_detection.ipynb` notebook using Jupyter. The notebook provides detailed steps for using the MTCNN and Inception ResNet models to detect deepfakes.
+3. Open and run the `Deepfake_detection.ipynb` notebook using Jupyter. The notebook provides detailed steps for using the MTCNN and Inception ResNet models to detect deepfakes.
 
 ## Dataset
 
