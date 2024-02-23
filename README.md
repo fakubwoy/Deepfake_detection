@@ -1,6 +1,6 @@
 # Deepfake_detection
 
-![Deepfake Detection](https://img.shields.io/badge/Deepfake_detection-v1.0-blue)
+![Deepfake Detection](https://img.shields.io/badge/Deepfake__detection-v1.0-blue)
 
 Welcome to the Deepfake Detection repository! This project aims to detect and report deepfake videos using a combination of MTCNN (Multi-Task Cascaded Convolutional Networks) and Inception ResNet architecture. Additionally, the model has been fine-tuned on a dataset from FaceForensics to enhance its performance.
 
